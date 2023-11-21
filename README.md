@@ -1,6 +1,6 @@
-# vue_project
+# forms and inputs with vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is an introduction ti working with form and inputs with vue js.
 
 ## Recommended IDE Setup
 
